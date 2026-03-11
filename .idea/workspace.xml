@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9edc1f26-12db-4461-aad7-ce2451e48529" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/EduFinApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="9edc1f26-12db-4461-aad7-ce2451e48529" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773216049556</updated>
-      <workItem from="1773216050544" duration="4874000" />
+      <workItem from="1773216050544" duration="6605000" />
     </task>
     <servers />
   </component>
