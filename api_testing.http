@@ -1,0 +1,13 @@
+### GET Testing 
+Send Request
+GET http://localhost:8000/testing
+
+### POST Testing 
+Send Request
+POST http://localhost:8000/testing
+Content-Type: application/json
+
+{
+    "name" : "testing 4",
+    "description" : "description 4"
+}
